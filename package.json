@@ -1,0 +1,38 @@
+{
+    "name": "darkpp-italic",
+    "displayName": "Dark++ Italic",
+    "description": "Enhanced VScode Dark+ theme with support for fonts Fira Code iScript and Operator Mono + Fira Code.",
+    "version": "0.0.1",
+    "publisher": "idbartosz",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark++ Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark++ Italic-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/idbartosz/vscode-darkpp-italic.git"
+    },
+    "bugs": {
+        "url": "https://github.com/idbartosz/vscode-darkpp-italic.git/issues"
+    },
+    "homepage": "https://github.com/idbartosz/vscode-darkpp-italic/blob/master/README.md",
+    "keywords": [
+        "Vscode",
+        "Theme",
+        "Dark++",
+        "Italic"
+    ],
+    "author": "Bartosz Korczak <idbartosz@gmail.com>",
+    "license": "MIT"
+}
