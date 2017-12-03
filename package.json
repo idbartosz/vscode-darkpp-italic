@@ -33,6 +33,7 @@
         "Dark++",
         "Italic"
     ],
+    "icon": "icon.png",
     "author": "Bartosz Korczak <idbartosz@gmail.com>",
     "license": "MIT"
 }
