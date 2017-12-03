@@ -9,9 +9,9 @@ Screenshot of dummy JavaScript/React (**left**: default; **right**: Fira Code iS
 
 ## Install
 
-In VScode press `ctrl/command + shift + p` to launch the command palette then run command:
+In VScode press `ctrl/command + p` to launch the command palette then run command:
 ```
-ext install darkpp-italic
+ext install idbartosz.darkpp-italic
 ```
 
 ### Adding support for **Fira Code iScript**.

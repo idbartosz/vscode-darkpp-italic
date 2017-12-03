@@ -2,7 +2,7 @@
     "name": "darkpp-italic",
     "displayName": "Dark++ Italic",
     "description": "Enhanced VScode Dark+ theme with support for fonts Fira Code iScript and Operator Mono + Fira Code.",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "publisher": "idbartosz",
     "engines": {
         "vscode": "^1.18.0"
