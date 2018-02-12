@@ -10,7 +10,7 @@ Screenshot of dummy JavaScript/React { **left**: Dark++ Italic, **right**: Dark+
 ### **IMPORTANT NOTES:**
 ---
 - Every major update to VSCode needs a re add in `workbench.main.css`
-- First change in fresh `workbench.main.css` will cause VScode to notify You with corrupt installation warning - just ignore it.
+- First change in fresh `workbench.main.css` will cause VScode to notify You with corrupt installation warning - just ignore.
 ---
 ### [+] Theme installation
 In VScode press `ctrl/command + p` to launch the command palette then run command:

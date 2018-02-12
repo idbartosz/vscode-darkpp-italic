@@ -391,8 +391,7 @@
             "scope": [
                 "entity.name.function",
                 "support.function",
-                "support.constant.handlebars",
-                "meta.decorator variable.other.readwrite" // undefined
+                "support.constant.handlebars"
             ],
             "settings": {
                 "foreground": "#ffecb3" // "foreground": "#DCDCAA"
@@ -471,7 +470,8 @@
             "scope": [
                 "variable",
                 "meta.definition.variable.name",
-                "support.variable"
+                "support.variable",
+                "meta.decorator variable.other.readwrite" // undefined
             ],
             "settings": {
                 "foreground": "#9CDCFE"
