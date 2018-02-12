@@ -87,6 +87,7 @@
         {
             "scope": "entity.other.attribute-name",
             "settings": {
+                "fontStyle": "italic", // undefined
                 "foreground": "#9cdcfe"
             }
         },

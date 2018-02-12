@@ -1,20 +1,24 @@
 # Dark++ Italic Theme
-
 Enhanced VScode Dark+ theme with support for Fira Code iScript and Fira Code + Operator Mono fonts.
 
-## Screenshot
-Screenshot of dummy JavaScript/React (**left**: default; **right**: Fira Code iScript).
+![Theme Screenshot](closeup.png)
+## Comparison
+Screenshot of dummy JavaScript/React { **left**: Dark++ Italic, **right**: Dark+(default) }.
 
 ![Theme Screenshot](screenshot.png)
-
 ## Install
-
+### **IMPORTANT NOTES:**
+---
+- Every major update to VSCode needs a re add in `workbench.main.css`
+- First change in fresh `workbench.main.css` will cause VScode to notify You with corrupt installation warning - just ignore it.
+---
+### [+] Theme installation
 In VScode press `ctrl/command + p` to launch the command palette then run command:
 ```
 ext install idbartosz.darkpp-italic
 ```
 
-### Adding support for **Fira Code iScript**.
+### [+] Adding support for **Fira Code iScript**.
 
 1. Download [Fira Code iScript](https://github.com/kencrocken/FiraCodeiScript) (free) and copy fonts to your OS font folder.
 2. In VScode press `ctr + ,` to open `User Settings` then add the following options and save changes.
@@ -39,7 +43,7 @@ ext install idbartosz.darkpp-italic
     3. Close and reopen VScode.
 
 
-### Adding support for **Fira Code** and **Operator Mono**.
+### [+] Adding support for **Fira Code** and **Operator Mono**.
 
 1. Download [Fira Code](https://github.com/tonsky/FiraCode) (free), [Operator Mono](https://www.typography.com/fonts/operator/overview/) (paid) and copy fonts to your OS font folder.
 2. In VScode press `ctr + ,` to open `User Settings` then add the following options and save changes.
