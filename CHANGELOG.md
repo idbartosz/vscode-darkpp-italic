@@ -5,15 +5,19 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
-## [0.1.2] 2018-04-17
+## [0.1.3] 2019-04-17
+### Fixed
+- Fix dates in CHANGELOG
+
+## [0.1.2] 2019-04-17
 ### Changed
 - Update CHANGELOG and package file
 
-## [0.1.1] 2018-04-17
+## [0.1.1] 2019-04-17
 ### Changed
 - Update README with theme setting by Mouli2105
 
-## [0.1.0] 2018-04-17
+## [0.1.0] 2019-04-17
 ### Fixed
 - Property colors in nested objects
 ### Changed
