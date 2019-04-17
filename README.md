@@ -38,6 +38,9 @@ ext install idbartosz.darkpp-italic
             font-size: 1.125em;
             font-stretch: ultra-condensed;
         }
+
+       /*!--------------------------------------------------------
+         * Copyright (C) Microsoft Corporation. All rights reserved.
         ...
         ```
     3. Close and reopen VScode.
@@ -62,6 +65,9 @@ ext install idbartosz.darkpp-italic
         .mtki {
           font-family: Operator Mono;
         }
+
+        /*!--------------------------------------------------------
+         * Copyright (C) Microsoft Corporation. All rights reserved.
         ...
         ```
     3. Close and reopen VScode.
