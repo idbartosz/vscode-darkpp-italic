@@ -25,6 +25,7 @@ ext install idbartosz.darkpp-italic
     ```
     {
       ...
+      "workbench.colorTheme": "Dark++ Italic",
       "editor.fontFamily": "Fira Code iScript",
       "editor.fontLigatures": true,
       ...
@@ -53,6 +54,7 @@ ext install idbartosz.darkpp-italic
     ```
     {
       ...
+      "workbench.colorTheme": "Dark++ Italic",
       "editor.fontFamily": "Fira Code",
       "editor.fontLigatures": true,
       ...
