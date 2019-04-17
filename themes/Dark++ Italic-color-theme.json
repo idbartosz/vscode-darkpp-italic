@@ -49,7 +49,7 @@
         {
             "scope": "comment",
             "settings": {
-                "foreground": "#608b4e"
+                "foreground": "#757882" // "foreground": "#608b4e"
             }
         },
         {
@@ -469,8 +469,8 @@
             "name": "Variable and parameter name",
             "scope": [
                 "variable",
-                "meta.definition.variable.name",
                 "support.variable",
+                "meta.definition.variable.name",
                 "meta.decorator variable.other.readwrite" // undefined
             ],
             "settings": {
@@ -482,7 +482,9 @@
             "scope": [
                 "meta.object-literal.key",
                 "meta.object-literal.key entity.name.function",
-                "variable.other.property" // undefined
+                "variable.other.object.property", // undefined
+                "variable.other.property", // undefined
+                "support.variable.property" // undefined
             ],
             "settings": {
                 "foreground": "#26c6da" // "foreground": "#9CDCFE"
