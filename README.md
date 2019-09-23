@@ -32,7 +32,7 @@ ext install idbartosz.darkpp-italic
     }
     ```
 3. Tweek font appearance by editing VScode internal styles *(optional step)*.
-    1. Find in your OS `<path to VScode>\resources\app\out\vs\workbench.main.css`
+    1. Find in your OS `<path to VScode>/resources/app/ut/vs/workbench/workbench.desktop.main.css`
     2. with administrator rights open `workbench.main.css` and prepend the style below:
         ```
         .mtki {
