@@ -580,6 +580,12 @@
       "settings": {
         "foreground": "#F48FB1"
       }
-    }
+    },
+    {
+      "scope": "keyword.generator.asterisk",
+      "settings": {
+        "foreground": "#FFD54F"
+      }
+    },
   ]
 }
