@@ -593,6 +593,12 @@
       "settings": {
         "foreground": "#FFD54F"
       }
+    },
+    {
+      "scope": "storage.type.function.arrow",
+      "settings": {
+        "fontStyle": ""
+      }
     }
   ]
 }
