@@ -376,7 +376,7 @@
         "entity.name.operator.custom-literal"
       ],
       "settings": {
-        "foreground": "#DCDCAA"
+        "foreground": "#FFECB3"
       }
     },
     {
@@ -510,7 +510,7 @@
     {
       "scope": ["keyword.operator.or.regexp", "keyword.control.anchor.regexp"],
       "settings": {
-        "foreground": "#DCDCAA"
+        "foreground": "#FFECB3"
       }
     },
     {
