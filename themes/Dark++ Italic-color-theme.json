@@ -302,7 +302,7 @@
     {
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#D4D4D4"
+        "foreground": "#FFD54F"
       }
     },
     {
