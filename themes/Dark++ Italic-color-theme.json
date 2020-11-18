@@ -149,7 +149,7 @@
     {
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#CE9178"
+        "foreground": "#CDA48C"
       }
     },
     {
@@ -173,7 +173,7 @@
     {
       "scope": "markup.inline.raw",
       "settings": {
-        "foreground": "#CE9178"
+        "foreground": "#CDA48C"
       }
     },
     {
@@ -191,7 +191,7 @@
     {
       "scope": "meta.preprocessor.string",
       "settings": {
-        "foreground": "#CE9178"
+        "foreground": "#CDA48C"
       }
     },
     {
@@ -235,19 +235,19 @@
     {
       "scope": ["string", "meta.embedded.assembly"],
       "settings": {
-        "foreground": "#CE9178"
+        "foreground": "#CDA48C"
       }
     },
     {
       "scope": "string.tag",
       "settings": {
-        "foreground": "#CE9178"
+        "foreground": "#CDA48C"
       }
     },
     {
       "scope": "string.value",
       "settings": {
-        "foreground": "#CE9178"
+        "foreground": "#CDA48C"
       }
     },
     {
@@ -479,7 +479,7 @@
         "support.constant.color"
       ],
       "settings": {
-        "foreground": "#CE9178"
+        "foreground": "#CDA48C"
       }
     },
     {
@@ -493,7 +493,7 @@
         "support.other.parenthesis.regexp"
       ],
       "settings": {
-        "foreground": "#CE9178"
+        "foreground": "#CDA48C"
       }
     },
     {
