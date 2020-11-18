@@ -573,6 +573,13 @@
       "settings": {
         "foreground": "#EC407A"
       }
+    },
+    {
+      "name": "Control flow return",
+      "scope": "keyword.control.flow",
+      "settings": {
+        "foreground": "#F48FB1"
+      }
     }
   ]
 }
