@@ -567,6 +567,12 @@
       "settings": {
         "fontStyle": "italic"
       }
+    },
+    {
+      "scope": "keyword.operator.logical",
+      "settings": {
+        "foreground": "#EC407A"
+      }
     }
   ]
 }
