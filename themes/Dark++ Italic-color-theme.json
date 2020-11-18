@@ -450,7 +450,8 @@
         "variable",
         "meta.definition.variable.name",
         "support.variable",
-        "entity.name.variable"
+        "entity.name.variable",
+        "meta.decorator variable.other.readwrite"
       ],
       "settings": {
         "foreground": "#9CDCFE"
@@ -463,9 +464,15 @@
       }
     },
     {
-      "scope": ["meta.object-literal.key"],
+      "scope": [
+        "meta.object-literal.key",
+        "meta.object-literal.key entity.name.function",
+        "variable.other.object.property",
+        "variable.other.property",
+        "support.variable.property"
+      ],
       "settings": {
-        "foreground": "#9CDCFE"
+        "foreground": "#26c6da"
       }
     },
     {
@@ -586,6 +593,6 @@
       "settings": {
         "foreground": "#FFD54F"
       }
-    },
+    }
   ]
 }
