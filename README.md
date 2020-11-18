@@ -9,8 +9,8 @@ Screenshot of dummy JavaScript/React { **left**: Dark++ Italic, **right**: Dark+
 ## Install
 ### **IMPORTANT NOTES:**
 ---
-- Every major update to VSCode needs a re add in `workbench.main.css`
-- First change in fresh `workbench.main.css` will cause VScode to notify You with corrupt installation warning - just ignore.
+- Every major update to VSCode needs a re add in `workbench.desktop.main.css`
+- First change in fresh `workbench.desktop.main.css` will cause VScode to notify You with corrupt installation warning - just ignore.
 ---
 ### [+] Theme installation
 In VScode press `ctrl/command + p` to launch the command palette then run command:
@@ -32,11 +32,11 @@ ext install idbartosz.darkpp-italic
     }
     ```
 3. Tweek font appearance by editing VScode internal styles *(optional step)*.
-    1. Find in your OS `<path to VScode>\resources\app\out\vs\workbench.main.css`
-    2. with administrator rights open `workbench.main.css` and prepend the style below:
+    1. Find in your OS `<path to VScode>\resources\app\out\vs\workbench.desktop.main.css`
+    2. with administrator rights open `workbench.desktop.main.css` and prepend the style below:
         ```
         .mtki {
-            font-size: 1.125em;
+            font-size: 1.25em;
             font-stretch: ultra-condensed;
         }
 
@@ -61,8 +61,8 @@ ext install idbartosz.darkpp-italic
     }
     ```
 3. Add support for Operator Mono fonts by editing VScode internal styles **(required step)**.
-    1. Find in your OS `<path to VScode>\resources\app\out\vs\workbench.main.css`
-    2. with administrator rights open `workbench.main.css` and prepend the style below:
+    1. Find in your OS `<path to VScode>\resources\app\out\vs\workbench.desktop.main.css`
+    2. with administrator rights open `workbench.desktop.main.css` and prepend the style below:
         ```
         .mtki {
           font-family: Operator Mono;
