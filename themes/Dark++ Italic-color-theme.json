@@ -576,7 +576,7 @@
       }
     },
     {
-      "scope": "keyword.operator.logical",
+      "scope": ["keyword.operator.logical", "punctuation.accessor.optional"],
       "settings": {
         "foreground": "#EC407A"
       }
