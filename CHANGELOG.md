@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [0.2.1] 2024-06-20
+### Changed
+- Update README.md with Copilot instructions, re-organize structure, and update images
+
 ## [0.2.0] 2020-11-18
 ### Fixed
 - Align theme with VSCode v1.51.1
